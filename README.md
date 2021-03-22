@@ -1,5 +1,5 @@
 I am a student of Analysis and Systems Development.
-- 🔭 My skills: JS / CSS3 / HTML5 / GIT / MySQL / Adobe XD.
+- 🔭 My skills: JS / CSS3 / HTML5 / GIT / MySQL / React Native / Adobe XD.
 - 🌱 I also like to do creative codes with P5.JS sketches.
 - 🤝 I’m looking to collaborate and learn in your company. 
 
