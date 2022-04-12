@@ -1,4 +1,4 @@
-Developer at Grumft (Analysis and Systems Development - UNIP) 
+Analysis and Systems Development
 - 🔭 My skills: Laravel / PHP / React Native / JS / CSS3 / HTML5 / GIT / MySQL / Adobe XD.
 - 🌱 Currently studying C / C# / Vue.js.
 - 🌱 I also like to do creative codes with P5.JS sketches.
