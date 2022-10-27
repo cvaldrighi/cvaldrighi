@@ -1,5 +1,5 @@
 Analysis and Systems Development
-- 🔭 My skills: Laravel / PHP / React Native / JS / CSS3 / HTML5 / GIT / MySQL / Adobe XD.
+- 🔭 My skills: Node.js / PHP-Laravel / React Native / JS / CSS3 / HTML5 / GIT / MySQL / Adobe XD.
 - 🌱 Currently studying C# / Vue.js. / Nest.js / Solidity
 - 🌱 I also like to do creative codes with P5.JS sketches.
 
