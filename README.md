@@ -22,8 +22,6 @@ Tenho interesse especial em:
 
 **Frontend**
 - Vue.js
-- React
-- React Native
 
 **Banco de Dados**
 - PostgreSQL
