@@ -39,4 +39,4 @@ Tenho interesse especial em:
 - Aprofundando conhecimentos em arquitetura cloud  
 
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carolina-longo-valdrighi/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cvaldrighi/)
