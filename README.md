@@ -1,6 +1,6 @@
 ## 👋 Oi, eu sou a Carol
 
-Desenvolvedora **fullstack com foco em backend e arquitetura de sistemas**.  
+Engenheira de Software com foco em backend e arquitetura de sistemas.  
 Atuo principalmente com **Node.js + TypeScript**, construindo APIs, microsserviços e integrações.
 
 Tenho interesse especial em:
@@ -9,7 +9,6 @@ Tenho interesse especial em:
 - ☁️ Cloud (AWS e GCP)
 - 🔄 Processamento assíncrono e mensageria
 - 🧩 Microsserviços e desacoplamento
-- ⛓️ Blockchain (Solidity)
 
 ---
 
